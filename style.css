@@ -17,9 +17,9 @@ body {
   border: 4px solid #9CB418;
 }
 
-/*.border-smaller:active {
+.border-smaller:active {
   box-shadow: none;
-} */
+} 
 
 .transparent {
 	zoom: 1;
